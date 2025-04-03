@@ -40,7 +40,7 @@ return [
             'port' => '3306',
             'database' => 'todolist',
             'username' => 'root',
-            'password' => 'Fasc%969847882',
+            'password' => '',
             'unix_socket' => env('DB_SOCKET', ''),
             'charset' => env('DB_CHARSET', 'utf8mb4'),
             'collation' => env('DB_COLLATION', 'utf8mb4_unicode_ci'),
